@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP-Pendu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55cddda123052fd0eb9689ca19063087a78c3739")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af00533d72b43aa5f4621f1f0ec28a89b7d4cf8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP-Pendu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP-Pendu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
